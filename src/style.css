@@ -38,7 +38,7 @@ form {
 }
 .submit-button {
   margin-left: 10px;
-  border: 1px solid black;
+  border: 1px solid #4d5e4c;
   background-color: white;
   color: #4d5e4c;
   font-weight: bold;
@@ -72,6 +72,10 @@ form {
   to {
     visibility: hidden;
   }
+}
+.hint {
+  font-size: 12px;
+  color: #4d5e4c;
 }
 strong {
   color: #4d5e4c;
